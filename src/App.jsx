@@ -5,7 +5,7 @@ function App() {
     <>
       <div className="container">
         <div className='jumbotron'>
-          <p>Hola Cibertec C</p>
+          <p>Hola Cibertec Modificado</p>
         </div>
         <button className='btn btn-danger'>boton bootstrap</button>
         <div className="alert alert-primary" role="alert">
